@@ -27,4 +27,7 @@ public class Git extends baseClass {
 		
 		getUrl("https://en-gb.facebook.com/");
 	}
+	public static void main(String[] args) {
+		System.out.println("Hi Mothi Happy Birthday ");
+	}
 }
